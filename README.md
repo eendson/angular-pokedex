@@ -1,5 +1,5 @@
 # Pokedex
-A Pokédex (palavra comum no vocabulário dos amantes de Pokémon) é uma enciclopédia virtual que detém todas, ou quase todas, as espécies de pokémon.
+Pokédex (palavra comum no vocabulário dos amantes de Pokémon) é uma enciclopédia virtual que detém todas, ou quase todas, as espécies de pokémon.
 
 Esse To-Do List foi desenvolvido usando Angular ([Angular CLI](https://github.com/angular/angular-cli) version 16.1.1) e Sass para aplicar e solidificar aprendizados como:
 
