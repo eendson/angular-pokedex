@@ -17,7 +17,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/pokedex/"
+            "baseHref": "/angular-pokedex/"
           }
         },
         "build": {
