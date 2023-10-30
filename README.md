@@ -8,7 +8,9 @@ Essa pokedex foi desenvolvido usando Angular ([Angular CLI](https://github.com/a
   - binds de evento;
   - variáveis scss e estilização;
   - utilização das rotas angular;
-  - lazy loading.
+  - lazy loading;
+  - observables;
+  - consumo de api.
 
  Nessa ferramenta o usuário poderá: 
  
